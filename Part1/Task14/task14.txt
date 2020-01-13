@@ -1,0 +1,6 @@
+Commands in root of rubyrepo
+
+touch Dockerfile
+nano Dockerfile
+docker build -t rubies .
+docker run -it -p 3000:3000 rubies
