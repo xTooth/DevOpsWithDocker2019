@@ -1,0 +1,5 @@
+https://tooth-dockertask.herokuapp.com/
+
+I don't know how recent this is BUT the "heroku container:release web" command required me to add a flag "-a" with the "app to compare against".
+This threw me for a loop as it isn√'t mentioned anywhere. the real command in my case was: "heroku container:release web -a tooth-dockertask" Might be worth while to add this to the documentation 
+unless Im the only one this aplied to.
