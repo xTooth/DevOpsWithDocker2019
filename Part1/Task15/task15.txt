@@ -1,0 +1,4 @@
+link to the project.
+https://hub.docker.com/repository/docker/tooth/my-old-tiralab
+This took way longer than it should have since I didnt really have any repos with intelligent content that werent setup using gradle, maven or some other indepth stack that all seemed to require 
+multi staged Dockerfiles. So this might be a complete hackjob but it builds and runs. (this is also why I attached the dockerfile.)
